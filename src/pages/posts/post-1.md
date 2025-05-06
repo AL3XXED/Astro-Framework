@@ -1,17 +1,17 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 titel : "My First Post"
-date : "2025-05-06"
+pubDate : 2025-05-06
 description : "This is my first post of my new Astro Blog."
 author : "John Doe"
-images:
-    url: 'hhtps://docs.astro.build/assets/rose.webp'
-    alt: 'The Astro logo on a dark background with a pink glow'
+image:
+    url: 'https://docs.astro.build/assets/rose.webp'
+    alt: 'The Astro logo on a dark background with a pink glow.'
 tags: ["astro", "blogging", "learning"]
 ---
 
 # My First Blog Post
 
-Published on: 2025-05-06
 
 Welcome to my _new blog_! about learing Astro. I will share my learning journey and experiences with you.
 
